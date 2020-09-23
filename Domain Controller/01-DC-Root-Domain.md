@@ -12,7 +12,7 @@ $Password = Read-Host -Prompt   'Enter SafeMode Admin Password' -AsSecureString
 
 ## AD DS Configuratie
 ```powershell
-Install-ADDSForest -DomainName "wanckes.nl" -CreateDnsDelegation:$false -DatabasePath "C:\Windows\NTDS" -DomainMode "7" -DomainNetbiosName "wanckes" -ForestMode "7" -InstallDns:$true -LogPath "C:\Windows\NTDS" -NoRebootOnCompletion:$True -SysvolPath "C:\Windows\SYSVOL" -Force:$true
+Install-ADDSForest -DomainName "wanckes.nl" -CreateDnsDelegation:$false -DatabasePath "C:\Windows\NTDS" -DomainMode "7" -DomainNetbiosName "wanckes" -ForestMode "7" -InstallDns:$true -LogPath "C:\Windows\NTDS" -NoRebootOnCompletion:$True -SysvolPath "C:\Windows\SYSVOL" -SafeModeAdministratorPassword = $Password -Force:$true
 ```
 
 ## Post Install Config:

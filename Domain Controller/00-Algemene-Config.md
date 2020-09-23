@@ -1,5 +1,6 @@
 # Algemene config
 
+1. Configuratie van copy/paste zoals beschreven: https://kb.vmware.com/s/article/57122
 1. Windows server 2019 installatie
 1. Wachtwoord local admin instellen
 1. Computer name wijzigen
