@@ -12,17 +12,17 @@ Add-DhcpServerv4Scope -Name 'vlan-servers-ins1' -StartRange 10.10.10.1 -EndRange
 
 ## DHCP Exclusion range toevoegen
 ```powershell
-Add-Dhcpserverv4ExclusionRange -ScopeId 'vlan-servers-ins1' -StartRange 10.10.10.100 -EndRange 10.10.10.199
+Add-Dhcpserverv4ExclusionRange -ScopeId 10.10.10.0 -StartRange 10.10.10.100 -EndRange 10.10.10.199
 ```
 
 ## Options op scope level wijzigen
 ```powershell
-Set-DhcpServerv4OptionValue -ScopeID 'vlan-servers-ins1' -DNSServer 10.10.10.2 -DNSDomain wanckes.nl -Router 10.10.10.1
+Set-DhcpServerv4OptionValue -ScopeID 10.10.10.0 -DNSServer 10.10.10.2 -DNSDomain wanckes.nl -Router 10.10.10.1
 ```
 
 ## Options op server level wijzigen
 ```powershell
-Set-DhcpServerv4OptionValue -DNSServer 10.10.10.2 -DNSDomain wanckes.nl
+Set-DhcpServerv4OptionValue -DNSServer 10.10.10.2
 ```
 
 ## DHCP Server authoriseren
