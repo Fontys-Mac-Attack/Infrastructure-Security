@@ -19,3 +19,12 @@ Initialize-Disk -Number 1
 ```powershell
 New-Partition -Disknumber 1 -Driveletter d -UseMaximumSize
 ```
+
+## Schijf formateren mbv diskpart:
+```
+List volume
+Select volume X
+format fs=ntfs quick label=Data
+exit
+```
+
