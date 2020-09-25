@@ -34,4 +34,21 @@ Invoke-BpaModel -ModelId Microsoft/Windows/UpdateServices
 Get-BpaResult -ModelId Microsoft/Windows/UpdateServices | Select Title,Severity,Compliance | Format-List
 ```
 
+## Web management console inschakelen
+```powershell
+Install-WindowsFeature Web-Mgmt-Service
+```
+dit installeert de web management service
+
+By default, the Web Management Server will not accept remote connections. To allow this, we’ll have to resort to using Regedit. Open the register by typing regedit.exe at the command prompt. Then, in the left pane, navigate to `HKEY_LOCAL_MACHINE\Software\Microsoft\WebManagement\Server.` Here, change the value for `EnableRemoteManagement` from `0x00000000` to `0x00000001`. Close Regedit with Alt+F4 or by clicking the X symbol in the right top of the program.
+
+## Web management service starten & op auto zetten
+```
+sc config WMSVC start= auto
+net start WMSVC
+```
+
+
+
 - [ ] SSL configuratie (veiliger)
+- [ ] Client side targetting met GPO
