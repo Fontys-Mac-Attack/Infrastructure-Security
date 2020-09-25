@@ -1,0 +1,5 @@
+firstname,middleInitial,lastname,username,email,streetaddress,city,zipcode,state,country,department,password,telephone,jobtitle,company,ou
+Stefan,,Denissen,s.denissen,,,,,,,,Welcome01,,IT Adviseur,MAC-Attack,"OU=Users,OU=Accounts,DC=WANCKES,DC=NL"
+Paul,,Henst,p.henst,,,,,,,,Welcome01,,IT Adviseur,MAC-Attack,"OU=Users,OU=Accounts,DC=WANCKES,DC=NL"
+Harm,,Schimmel,h.schimmel,,,,,,,,Welcome01,,IT Adviseur,MAC-Attack,"OU=Users,OU=Accounts,DC=WANCKES,DC=NL"
+Michiel,,Mak,m.mak,,,,,,,,Welcome01,,IT Adviseur,MAC-Attack,"OU=Users,OU=Accounts,DC=WANCKES,DC=NL"
