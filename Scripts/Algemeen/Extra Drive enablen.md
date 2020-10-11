@@ -25,6 +25,7 @@ New-Partition -Disknumber 1 -Driveletter d -UseMaximumSize
 List volume
 Select volume X
 format fs=ntfs quick label=Data
+assign letter D
 exit
 ```
 
