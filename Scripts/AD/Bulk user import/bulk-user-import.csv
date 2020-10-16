@@ -1,5 +1,48 @@
-firstname,middleInitial,lastname,username,email,streetaddress,city,zipcode,state,country,department,password,telephone,jobtitle,company,ou
-Stefan,,Denissen,s.denissen,,,,,,,,Welcome01,,IT Adviseur,MAC-Attack,"OU=Users,OU=Accounts,DC=WANCKES,DC=NL"
-Paul,,Henst,p.henst,,,,,,,,Welcome01,,IT Adviseur,MAC-Attack,"OU=Users,OU=Accounts,DC=WANCKES,DC=NL"
-Harm,,Schimmel,h.schimmel,,,,,,,,Welcome01,,IT Adviseur,MAC-Attack,"OU=Users,OU=Accounts,DC=WANCKES,DC=NL"
-Michiel,,Mak,m.mak,,,,,,,,Welcome01,,IT Adviseur,MAC-Attack,"OU=Users,OU=Accounts,DC=WANCKES,DC=NL"
+Title,GivenName,MiddleInitial,Surname,StreetAddress,City,State,StateFull,ZipCode,CountryFull,Password,TelephoneNumber,Username,Email,MemberOff,JobTitle,Department,Company
+Mr.,Tufan,N,Bloemendal,Van Ittersumstraat 106,Zwolle,OV,Overijssel,8011 JN,nl,Oogh5Chue,06-95559454,T.Bloemendal,T.Bloemendal@wanckes.nl,sg-g-systeembeheer,Systeembeheerder,IT,Wanckes E-Scooterverhuur
+Mr.,Şafak,S,Rommens,Schweibergerweg 157,Mechelen,LI,Limburg,6281 NH,nl,Apee1xazae,06-73263108,Ş.Rommens,Ş.Rommens@wanckes.nl,sg-g-netwerkbeheer,Netwerkbeheerder,IT,Wanckes E-Scooterverhuur
+Mrs.,Verona,V,Honkoop,Langeraarseweg 36,Ter Aar,ZH,Zuid-Holland,2461 CD,nl,ohDaew4c,06-52747343,V.Honkoop,V.Honkoop@wanckes.nl,sg-g-helpdesk,Medewerker Helpdesk,IT,Wanckes E-Scooterverhuur
+Mrs.,Maike,J,Jumelet,Meeuwenstraat 66,Foxhol,GR,Groningen,9607 RB,nl,Wei7iequoo,06-39636924,M.Jumelet,M.Jumelet@wanckes.nl,sg-g-helpdesk,Medewerker Helpdesk,IT,Wanckes E-Scooterverhuur
+Mr.,Bente,N,Haverkamp,Woortmansdijk 200,Westerbroek,GR,Groningen,9608 TB,nl,ahgael9E,06-57051343,B.Haverkamp,B.Haverkamp@wanckes.nl,sg-g-werkplaats,Medewerker Werkplaats,Werkplaats,Wanckes E-Scooterverhuur
+Mr.,Seyhan,A,van der Ark,Jacob van Wassenaerstraat 146,s-Hertogenbosch,NB,Noord-Brabant,5224 GG,nl,sheiv8aChe,06-31288138,S.van der Ark,S.van der Ark@wanckes.nl,sg-g-werkplaats,Medewerker Werkplaats,Werkplaats,Wanckes E-Scooterverhuur
+Mr.,Kerem,R,Verhoof,Cloosterlaan 89,Heemstede,NH,Noord-Holland,2101 ZD,nl,Ohqu1ei1eegai,06-58008704,K.Verhoof,K.Verhoof@wanckes.nl,sg-g-werkplaats,Medewerker Werkplaats,Werkplaats,Wanckes E-Scooterverhuur
+Mr.,Immanuel,C,Snoeks,Tafelbergweg 85,Amsterdam-Zuidoost,NH,Noord-Holland,1105 BD,nl,YohPhieY4moh,06-33076976,I.Snoeks,I.Snoeks@wanckes.nl,sg-g-verhuur,Medewerker Verhuur,Verhuur,Wanckes E-Scooterverhuur
+Mrs.,Geneviëve,G,Spruijt,Van Elkstraat 198,Hendrik-Ido-Ambacht,ZH,Zuid-Holland,3342 VM,nl,ooMie7ji,06-46490875,G.Spruijt,G.Spruijt@wanckes.nl,sg-g-verhuur,Medewerker Verhuur,Verhuur,Wanckes E-Scooterverhuur
+Mr.,Giuliano,S,van Kleij,J.T.P. Bijhouwerhof 55,Almere,FL,Flevoland,1333 HR,nl,xie3eiXa,06-77133664,G.van Kleij,G.van Kleij@wanckes.nl,sg-g-verhuur,Medewerker Verhuur,Verhuur,Wanckes E-Scooterverhuur
+Mr.,Jiry,A,Landman,Borgerderstraat 11,Nooitgedacht,DR,Drenthe,9449 PA,nl,Che3eiThe8jai,06-76231349,J.Landman,J.Landman@wanckes.nl,sg-g-finance,Medewerker Finance,Finance,Wanckes E-Scooterverhuur
+Mr.,Amerik,H,Dukker,Rector Aldenhuijsenstraat 180,Handel,NB,Noord-Brabant,5423 TH,nl,oLipee6Diegh,06-63656571,A.Dukker,A.Dukker@wanckes.nl,sg-g-marketing,Medewerker Marketing,Marketing,Wanckes E-Scooterverhuur
+Mrs.,Franca,K,Bolks,Top Naefflaan 164,Groningen,GR,Groningen,9721 VD,nl,Chohyoh1Ch,06-53318403,F.Bolks,F.Bolks@wanckes.nl,sg-g-hr,Medewerker HR,HR,Wanckes E-Scooterverhuur
+Mr.,Jeremey,L,Ostendorf,Maliebaanstation 14,Utrecht,UT,Utrecht,3581 XW,nl,ahB9eeth8av,06-13122188,J.Ostendorf,J.Ostendorf@wanckes.nl,sg-g-directeur,Directeur,Directie,Wanckes E-Scooterverhuur
+Mrs.,Leona,E,Kienhuis,Breewaterstraat 145,Den Helder,NH,Noord-Holland,1781 GT,nl,kae8Moht,06-15649941,L.Kienhuis,L.Kienhuis@wanckes.nl,sg-g-directie,Directie,Directie,Wanckes E-Scooterverhuur
+Ms.,Leona,M,Geuze,Anerveenseweg 155,Ane,OV,Overijssel,7784 DC,nl,ka9oX8ah,06-74878190,L.Geuze,L.Geuze@wanckes.nl,sg-g-directie,Directie,Directie,Wanckes E-Scooterverhuur
+Mr.,Bryan,F,Katuin,De Ligger 50,Sneek,FR,Friesland,8608 WV,nl,Phoh6ighu,06-81251019,B.Katuin,B.Katuin@wanckes.nl,sg-g-systeembeheer,Systeembeheerder,IT,Wanckes E-Scooterverhuur
+Mr.,Sterre,C,Dallinga,Jufferswijk 106,Elim,DR,Drenthe,7916 VA,nl,otoo4eeN,06-10847378,S.Dallinga,S.Dallinga@wanckes.nl,sg-g-netwerkbeheer,Netwerkbeheerder,IT,Wanckes E-Scooterverhuur
+Mr.,Tian,H,Haze,Zeestraat 107,Harderwijk,GE,Gelderland,3841 JK,nl,iQuoop1ae,06-28781364,T.Haze,T.Haze@wanckes.nl,sg-g-helpdesk,Medewerker Helpdesk,IT,Wanckes E-Scooterverhuur
+Mr.,Adne,J,Keur,Vijverweg 34,Best,NB,Noord-Brabant,5683 CX,nl,mong8Peeshoh,06-15202668,A.Keur,A.Keur@wanckes.nl,sg-g-helpdesk,Medewerker Helpdesk,IT,Wanckes E-Scooterverhuur
+Mr.,Mano,M,Noorman,Markt 114,Oudenbosch,NB,Noord-Brabant,4731 HM,nl,oor9gia7Ie,06-58655671,M.Noorman,M.Noorman@wanckes.nl,sg-g-manager-werkplaats,Manager Werkplaats,Werkplaats,Wanckes E-Scooterverhuur
+Ms.,Chantelle,D,Overwater,Van Galenstraat 164,Rotterdam,ZH,Zuid-Holland,3031 TD,nl,xuwia2Tei,06-12034210,C.Overwater,C.Overwater@wanckes.nl,sg-g-werkplaats,Medewerker Werkplaats,Werkplaats,Wanckes E-Scooterverhuur
+Ms.,Arenda,R,van Bergen,De Witsreed 89,Kornhorn,GR,Groningen,9864 TA,nl,Ail4OhGee,06-94625250,A.van Bergen,A.van Bergen@wanckes.nl,sg-g-werkplaats,Medewerker Werkplaats,Werkplaats,Wanckes E-Scooterverhuur
+Mr.,Wasim,M,Smakman,Oranje Nassaulaan 46,Overveen,NH,Noord-Holland,2051 HJ,nl,yageuXee6,06-27018411,W.Smakman,W.Smakman@wanckes.nl,sg-g-werkplaats,Medewerker Werkplaats,Werkplaats,Wanckes E-Scooterverhuur
+Ms.,Valéry,E,de Munnik,Volkerakstraat 71,Deventer,OV,Overijssel,7417 TL,nl,xoo0Vaifie,06-62295134,V.de Munnik,V.de Munnik@wanckes.nl,sg-g-manager-verhuur,Manager Verhuur,Verhuur,Wanckes E-Scooterverhuur
+Mr.,Kris,A,Okhuijsen,Zeeheldenstraat 147,Winschoten,GR,Groningen,9675 AJ,nl,zai1Bohboa,06-57107844,K.Okhuijsen,K.Okhuijsen@wanckes.nl,sg-g-verhuur,Medewerker Verhuur,Verhuur,Wanckes E-Scooterverhuur
+Dr.,Danielle,D,van Luttikhuizen,Oude Strumpt 113,Ulicoten,NB,Noord-Brabant,5113 BT,nl,xaoFohp4S,06-64989714,D.van Luttikhuizen,D.van Luttikhuizen@wanckes.nl,sg-g-verhuur,Medewerker Verhuur,Verhuur,Wanckes E-Scooterverhuur
+Ms.,Manuëla,A,Zeeman,Commandeurstraat 83,Mechelen,LI,Limburg,6281 AL,nl,aic1miTh7Ai,06-17950442,M.Zeeman,M.Zeeman@wanckes.nl,sg-g-manager-it,Manager IT,IT,Wanckes E-Scooterverhuur
+Mr.,Timme,B,Masselink,Putbroekerbosweg 93,Maria Hoop,LI,Limburg,6105 AK,nl,aezuF3Eeth,06-94588905,T.Masselink,T.Masselink@wanckes.nl,sg-g-manager-finance,Manager Finance,Finance,Wanckes E-Scooterverhuur
+Mrs.,Desiré,J,Keesmaat,Karekietstraat 81,Sliedrecht,ZH,Zuid-Holland,3362 RB,nl,ieFiaseo3,06-34654190,D.Keesmaat,D.Keesmaat@wanckes.nl,sg-g-finance,Medewerker Finance,Finance,Wanckes E-Scooterverhuur
+Mr.,Dane,Y,Roesink,Heuvel 73,Roermond,LI,Limburg,6042 JS,nl,Eim1Eebee,06-72304745,D.Roesink,D.Roesink@wanckes.nl,sg-g-finance,Medewerker Finance,Finance,Wanckes E-Scooterverhuur
+Mr.,Fahd,A,Diepenbroek,Erasmuslaan 52,Heerhugowaard,NH,Noord-Holland,1702 GH,nl,coot3kooSoo,06-11238001,F.Diepenbroek,F.Diepenbroek@wanckes.nl,sg-g-manager-marketing,Manager Marketing,Marketing,Wanckes E-Scooterverhuur
+Mrs.,Inass,D,van Ittersum,Loseweg 195,Apeldoorn,GE,Gelderland,7315 HA,nl,Oomuqu3l,06-65728733,I.van Ittersum,I.van Ittersum@wanckes.nl,sg-g-marketing,Medewerker Marketing,Marketing,Wanckes E-Scooterverhuur
+Ms.,Betül,T,Heuver,Irenestraat 54,Cadier en Keer,LI,Limburg,6267 AX,nl,phu5Ahngee,06-49639320,B.Heuver,B.Heuver@wanckes.nl,sg-g-marketing,Medewerker Marketing,Marketing,Wanckes E-Scooterverhuur
+Mr.,Erman,V,Vaessen,Ter Weerlaan 80,Wassenaar,ZH,Zuid-Holland,2241 VD,nl,Pae5aizohg,06-75804685,E.Vaessen,E.Vaessen@wanckes.nl,sg-g-manager-hr,Manager HR,HR,Wanckes E-Scooterverhuur
+Mr.,Menzo,A,Verkroost,Herenstraat 140,Werkhoven,UT,Utrecht,3985 RX,nl,Air0iecieK1,06-11998459,M.Verkroost,M.Verkroost@wanckes.nl,sg-g-hr,Medewerker HR,HR,Wanckes E-Scooterverhuur
+Ms.,Augusta,S,Pinas,Neuweg 16,Hilversum,NH,Noord-Holland,1214 HC,nl,wic9einiuNg,06-34201530,A.Pinas,A.Pinas@wanckes.nl,sg-g-hr,Medewerker HR,HR,Wanckes E-Scooterverhuur
+Mr.,Hjalmar,I,Hollink,Provincieroute 56,Zwolle,OV,Overijssel,8016 GA,nl,meitieBahj1,06-42979372,H.Hollink,H.Hollink@wanckes.nl,sg-g-verhuur,Medewerker Verhuur,Verhuur,Wanckes E-Scooterverhuur
+Mr.,Hakim,R,Fischer,Ebrodreef 91,Utrecht,UT,Utrecht,3561 JN,nl,tahCh9ai,06-15202290,H.Fischer,H.Fischer@wanckes.nl,sg-g-verhuur,Medewerker Verhuur,Verhuur,Wanckes E-Scooterverhuur
+Mr.,Edwin,J,van Driesten,J.E.S. Holthausstraat 4,Rossum,GE,Gelderland,5328 CZ,nl,Ahthi1xaeDoh,06-20161923,E.van Driesten,E.van Driesten@wanckes.nl,sg-g-verhuur,Medewerker Verhuur,Verhuur,Wanckes E-Scooterverhuur
+Mr.,Neville,J,Lelieveld,Poolsedreef 134,Oosterhout,NB,Noord-Brabant,4904 WC,nl,ahte9ahz1Ho,06-46674698,N.Lelieveld,N.Lelieveld@wanckes.nl,sg-g-verhuur,Medewerker Verhuur,Verhuur,Wanckes E-Scooterverhuur
+Ms.,Merian,M,Yildiz,Burgemeester Baumannlaan 173,Rotterdam,ZH,Zuid-Holland,3043 AR,nl,xov5Eo5ai,06-22503086,M.Yildiz,M.Yildiz@wanckes.nl,sg-g-verhuur,Medewerker Verhuur,Verhuur,Wanckes E-Scooterverhuur
+Mr.,Vishnu,A,Houtman,Oudelandsdijkje 7,West-Graftdijk,NH,Noord-Holland,1486 PD,nl,diDae3bupah,06-72237203,V.Houtman,V.Houtman@wanckes.nl,sg-g-verhuur,Medewerker Verhuur,Verhuur,Wanckes E-Scooterverhuur
+Mr.,Doğan,J,Demandt,Schimmelweg 143,Den Haag,ZH,Zuid-Holland,2524 XH,nl,OoB7doosee,06-90667498,D.Demandt,D.Demandt@wanckes.nl,sg-g-werkplaats,Medewerker Werkplaats,Werkplaats,Wanckes E-Scooterverhuur
+Mr.,Bogdan,O,Elberse,Nieuwmarkt 48,Lichtenvoorde,GE,Gelderland,7131 LK,nl,Quoo2ohgho,06-40756478,B.Elberse,B.Elberse@wanckes.nl,sg-g-werkplaats,Medewerker Werkplaats,Werkplaats,Wanckes E-Scooterverhuur
+Mr.,Duran,R,Tamis,Pieter Corneliszoon Hooftstraat 96,Castricum,NH,Noord-Holland,1901 HZ,nl,aiLohd0Roo,06-84887576,D.Tamis,D.Tamis@wanckes.nl,sg-g-werkplaats,Medewerker Werkplaats,Werkplaats,Wanckes E-Scooterverhuur
+Mr.,Marin,J,Wennink,Landseindestraat 190,Zwolle,OV,Overijssel,8043 VX,nl,meuxo4Ei,06-29576973,M.Wennink,M.Wennink@wanckes.nl,sg-g-werkplaats,Medewerker Werkplaats,Werkplaats,Wanckes E-Scooterverhuur
